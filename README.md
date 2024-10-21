@@ -1,90 +1,29 @@
-Archit Chikara - LinkedIn Profile
-Overview
-Engineering Student | Web Developer (HTML, CSS, JS) | GUI Tester | Graphic Designer
-Currently studying at Galgotias College of Engineering and Technology, Uttar Pradesh, India. Skilled in GUI Testing & Graphic Designing, with a passion for coding, problem-solving, and tech innovation. I am an aspiring engineer actively involved in hackathons and projects aimed at technological development and innovation.
+<h1 align="center">Hi 👋, I'm Archit Chikara(Engineering Student | Web Developer | GUI Tester | Graphic Designer)</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=archit-chikara&label=Profile%20views&color=0e75b6&style=flat" alt="archit-chikara" /> </p>
 
-Skills
-Frontend Development: Proficient in HTML, CSS, and JavaScript.
-GUI Testing: Experience in testing and developing user-friendly interfaces.
-Graphic Designing: Skilled in using tools like Photoshop and Illustrator to create professional designs.
-Programming Languages & Technologies: C, JavaScript, Firebase.
-Team Leadership: Leading the tech team 'Quantum Cult' and managing projects efficiently.
-Open To Work
-I am open to roles such as:
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=archit-chikara" alt="archit-chikara" /></a> </p>
 
-Software Engineer
-C Developer
-Graphic Designer
-Video Editor
-Content Editor
-Achievements & Projects
-Leader of Quantum Cult: Actively managing and leading coding and development projects.
-Hackathon Participation: Passionate about participating in hackathons and ideathons, consistently developing innovative tech solutions.
-TransVault Project: Developed a logistics and transportation management solution for the Smart India Hackathon 2024 and represented it at the IDEASURGE 2024 ideathon event.
-Contact Information
-Location: Uttar Pradesh, India
-LinkedIn Profile: Archit Chikara's LinkedIn
-This README provides a snapshot of your LinkedIn profile, showcasing your skills, achievements, and professional journey. Let me know if you'd like any modifications!
+- 🔭 I’m currently working on **A passionate and innovative tech enthusiast from Uttar Pradesh, India, skilled in frontend development, GUI testing, and graphic design. 🚀 Lead of a Smart India Hackathon (SIH) team and a hackathon enthusiast!**
 
+- 🌱 I’m currently learning **Improving my expertise in ReactJS, Firebase, and UI/UX Design to build interactive and visually stunning web applications.**
 
+- 👯 I’m looking to collaborate on **Frontend Development Projects and Creative Web Design ideas that involve UI/UX optimization and graphic design elements.**
 
+- 🤝 I’m looking for help with **Learning advanced JavaScript frameworks like React and expanding my backend development skills with Node.js.**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/archit chikara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="archit chikara" height="30" width="40" /></a>
+<a href="https://instagram.com/archit_.chaudhary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="archit_.chaudhary" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/@architchikara021" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@architchikara021" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/archit chikara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="archit chikara" height="30" width="40" /></a>
+</p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://cordova.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cordova/apache_cordova-icon.svg" alt="apachecordova" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a> </p>
 
-You said:
-creative with logo and dammm interesting 
-ChatGPT said:
-ChatGPT
-Here’s an upgraded version of your LinkedIn README file—creative, engaging, and with a custom logo representation!
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=archit-chikara&show_icons=true&locale=en&layout=compact" alt="archit-chikara" /></p>
 
-🌟 Archit Chikara - The Quantum Innovator 🚀
-🌐 Engineering Student | Web Developer | GUI Tester | Graphic Designer
-<!-- Placeholder for the logo; you can upload an actual logo here -->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=archit-chikara&show_icons=true&locale=en" alt="archit-chikara" /></p>
 
-📍 Uttar Pradesh, India
-🎓 Galgotias College of Engineering and Technology
-
-🔥 About Me
-I’m an enthusiastic Web Developer and Tech Innovator on a mission to transform ideas into impactful technology. As a creative problem-solver, I dive deep into coding, design, and testing, crafting not just solutions but experiences that resonate. Passionate about building the future, I leverage my skills to create user-centric designs, robust interfaces, and participate in cutting-edge hackathons.
-
-“Bringing ideas to life—one line of code at a time.”
-
-🛠️ Skill Arsenal
-💻 Frontend Development
-Languages: HTML, CSS, JavaScript
-Libraries/Frameworks: ReactJS, Bootstrap
-Dynamic and interactive website building
-🎨 Graphic Design & Branding
-Tools: Photoshop, Illustrator
-Specializing in UI/UX, branding, and visual storytelling
-🧩 GUI Testing
-Developing and testing intuitive user interfaces
-Ensuring seamless and engaging user experiences
-🌐 Additional Skills
-Firebase for backend solutions
-C Programming for problem-solving basics
-Leadership: Leading tech teams and managing development projects with impact
-🚀 The Leader Behind Quantum Cult
-I proudly lead the Quantum Cult team—a dynamic group of passionate developers and designers. Together, we innovate, code, and develop projects that aim to redefine the tech landscape. From hackathons to real-world challenges, Quantum Cult is where the next big tech wave begins.
-
-🏆 Achievements & Projects
-💡 TransVault - Revolutionizing Logistics
-Represented this groundbreaking project at the IDEASURGE 2024 Ideathon, scoring high on innovation and feasibility. It's a comprehensive solution for digital paperwork and tracking in logistics, designed for the Smart India Hackathon 2024.
-
-🎯 Hackathon Expert
-From ideathons to coding competitions, I thrive in environments where tech meets creativity. My skills have consistently contributed to out-of-the-box solutions, earning recognition and driving innovation.
-
-🎯 Open To Work: Let’s Build The Future Together!
-I am currently open for roles that align with my passion and skills:
-
-Software Engineer 💻
-C Developer 🔧
-Graphic Designer 🎨
-Video Editor 📹
-Content Editor ✍️
-Let’s connect and create something amazing!
-
-📬 Contact Me
-📍 Location: Uttar Pradesh, India
-🔗 LinkedIn: Archit Chikara's LinkedIn
-📧 Email: archit.chikara@example.com
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=archit-chikara&" alt="archit-chikara" /></p>
